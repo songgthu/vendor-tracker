@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ac9466de-8a7b-4c66-bb16-b9e236fd99de",
+    "vendorId": 1,
+    "updatedAt": "2026-09-19T10:12:16.695Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Verified",
+        "to": "Active"
+      }
+    }
+  },
+  {
+    "id": "9ddbf10f-50a4-467c-b521-90ce7f0a571f",
+    "vendorId": 1,
+    "updatedAt": "2026-09-19T10:12:03.105Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Active",
+        "to": "KYC Verified"
+      }
+    }
+  },
+  {
+    "id": "b7b3aa77-f7ca-4df1-929f-ae1819e76b21",
+    "vendorId": 3,
+    "updatedAt": "2026-09-19T10:11:56.142Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Contract Signed",
+        "to": "Contract Sent"
+      }
+    }
+  },
+  {
+    "id": "5bb8d379-01a7-4383-85d7-fa9b24e38c11",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:38:05.944Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Docs Received",
+        "to": "Contract Sent"
+      }
+    }
+  },
+  {
+    "id": "1e0f19fa-632d-4760-9ad7-3b1dc1a4d7a1",
+    "vendorId": 1,
+    "updatedAt": "2026-09-19T09:37:44.012Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Docs Received",
+        "to": "Active"
+      }
+    }
+  },
+  {
+    "id": "3f5bdf55-fc91-427b-bea3-358206271890",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:30:07.420Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Contract Sent",
+        "to": "KYC Docs Received"
+      }
+    }
+  },
+  {
+    "id": "c4ce568c-45b5-4dab-8359-2e3c7541921a",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:30:02.607Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Active",
+        "to": "Contract Sent"
+      }
+    }
+  },
+  {
+    "id": "d3f64fc9-fa98-44ec-9ced-f9974a876fa8",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:29:57.201Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Verified",
+        "to": "Active"
+      }
+    }
+  },
+  {
+    "id": "de4400c9-eb4c-454c-99c9-d3b5342b63d6",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:29:54.136Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Docs Received",
+        "to": "KYC Verified"
+      }
+    }
+  },
+  {
+    "id": "85e55ab4-a8a2-4ba2-ab48-9aaf3976709e",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:29:49.029Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Verified",
+        "to": "KYC Docs Received"
+      }
+    }
+  },
+  {
+    "id": "d8b51df8-1634-4551-961d-e47103d436ed",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:10:00.257Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Active",
+        "to": "KYC Verified"
+      }
+    }
+  },
+  {
+    "id": "df9f1ccc-ff60-451a-9337-f49a4939d81b",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:09:57.283Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Docs Received",
+        "to": "Active"
+      }
+    }
+  },
+  {
+    "id": "2938a5dd-66f7-40f5-9ef2-3e65ad83eb35",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:09:54.268Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Contract Signed",
+        "to": "KYC Docs Received"
+      }
+    }
+  },
+  {
+    "id": "d4624909-eaa0-4a1c-837e-3b0308f51375",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:09:50.640Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Verified",
+        "to": "Contract Signed"
+      }
+    }
+  },
+  {
+    "id": "9d3ddd9a-f943-4f7a-bec9-91579a7974e9",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:09:44.745Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Contract Sent",
+        "to": "KYC Verified"
+      }
+    }
+  },
+  {
+    "id": "380f97a9-3fb4-4efd-bfed-acaf2e37b9ba",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:09:41.504Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "KYC Docs Received",
+        "to": "Contract Sent"
+      }
+    }
+  },
+  {
+    "id": "94ff3de7-4946-4a3d-aac3-5809a11ce376",
+    "vendorId": 2,
+    "updatedAt": "2026-09-19T09:09:37.689Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Contract Signed",
+        "to": "KYC Docs Received"
+      }
+    }
+  },
+  {
+    "id": "ab377f2f-7e06-4a3f-9633-dd15521a0228",
+    "vendorId": 1,
+    "updatedAt": "2026-09-19T09:02:18.768Z",
+    "updatedBy": "songthu",
+    "changes": {
+      "stage": {
+        "from": "Active",
+        "to": "KYC Docs Received"
+      }
+    }
+  }
+]

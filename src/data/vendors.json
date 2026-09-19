@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "vendor": "Company k",
+    "region": "HCMC",
+    "stage": "Active",
+    "stageEnteredAt": "2026-09-19T10:12:16.695Z",
+    "coordinator": "Linh",
+    "lastUpdated": "2026-09-19T10:12:16.695Z",
+    "updatedBy": "songthu",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "vendor": "Company B",
+    "region": "HCMC",
+    "stage": "Contract Sent",
+    "stageEnteredAt": "2026-09-19T09:38:05.944Z",
+    "coordinator": "Minhh",
+    "lastUpdated": "2026-09-19T09:38:05.944Z",
+    "updatedBy": "songthu",
+    "notes": "Awaiting review. Test"
+  },
+  {
+    "id": 3,
+    "vendor": "Company C",
+    "region": "Da Nang",
+    "stage": "Contract Sent",
+    "stageEnteredAt": "2026-09-19T10:11:56.142Z",
+    "coordinator": "Anh",
+    "lastUpdated": "2026-09-19T10:11:56.142Z",
+    "updatedBy": "songthu",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "vendor": "Company D",
+    "region": "HCMC",
+    "stage": "KYC Verified",
+    "stageEnteredAt": "2026-09-18T08:00:00.000Z",
+    "coordinator": "Huy",
+    "lastUpdated": "2026-09-10T08:00:00.000Z",
+    "updatedBy": "Huy",
+    "notes": "Waiting on business license re-upload"
+  },
+  {
+    "id": 5,
+    "vendor": "Company E",
+    "region": "Hanoi",
+    "stage": "KYC Docs Received",
+    "stageEnteredAt": "2026-09-11T02:30:00.000Z",
+    "coordinator": "Mai",
+    "lastUpdated": "2026-09-08T02:30:00.000Z",
+    "updatedBy": "Mai",
+    "notes": ""
+  }
+]
